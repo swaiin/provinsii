@@ -1,0 +1,35 @@
+"Pulau" "Provinsi" "Singkatan.ISO.3." "Ibu_kota" "Tanggal_diresmikan" "Populasi" "Luas_Total" "APBD_2020" "PDRB_2020" "IPM_2020"
+"1" "Sumatra" "Aceh" "AC" "Banda Aceh" "7 Desember 1959" 5371532 57956 17279.52 164.21 71.99
+"2" "Jawa" "DKI Jakarta" "JK" "Jakarta" "28 Agustus 1961" 10012271 664.01 79285.13 1761.41 78.39
+"3" "Jawa" "Daerah Istimewa Yogyakarta" "YO" "Yogyakarta" "4 Maret 1950" 3553100 3133.15 3662.33 93.45 76.81
+"4" "Kalimantan" "Kalimantan Timur" "KI" "Samarinda" "2 Juli 1958" 3351432 129066.64 15731.1 519.93 73.82
+"5" "Sumatra" "Kepulauan Riau" "KR" "Tanjungpinang" "25 Oktober 2002" 1917415 8201.72 3944.69 182.92 73.4
+"6" "Kepulauan Nusa Tenggara" "Bali" "BA" "Denpasar" "14 Agustus 1958" 4104900 5780.06 5461.18 156.45 72.48
+"7" "Sumatra" "Riau" "RI" "Pekanbaru" "9 Agustus 1957" 6188442 87023.66 9425.83 679.69 70.33
+"8" "Sulawesi" "Sulawesi Utara" "SA" "Manado" "13 Desember 1960" 2386604 13851.64 2625.93 80.62 69.96
+"9" "Jawa" "Banten" "BT" "Serang" "4 Oktober 2000" 11704877 9662.92 8398.2 432.76 69.89
+"10" "Sumatra" "Sumatra Barat" "SB" "Padang" "9 Agustus 1957" 5131900 42012.89 3887.84 167.04 69.36
+"11" "Jawa" "Jawa Barat" "JB" "Bandung" "4 Juli 1950" 46029668 35377.76 23067.2 1385.96 68.8
+"12" "Jawa" "Jawa Tengah" "JT" "Semarang" "4 Juli 1950" 33522663 32800.69 14336.87 925.66 68.75
+"13" "Sumatra" "Sumatra Utara" "SU" "Medan" "29 November 1956" 15851851 72981.23 8565.53 523.77 68.68
+"14" "Kalimantan" "Kalimantan Utara" "KU" "Tanjung Selor" "25 Oktober 2012" 618384 13925.72 2299.6 59.08 68.64
+"15" "Sulawesi" "Sulawesi Selatan" "SN" "Makassar" "13 Desember 1960" 8432163 46717.48 6186.39 300.12 68.49
+"16" "Sumatra" "Kepulauan Bangka Belitung" "BB" "Pangkalpinang" "21 November 2000" 1343900 16424.06 2276.18 56.39 68.27
+"17" "Sumatra" "Jambi" "JA" "Jambi" "9 Agustus 1957" 3344400 50058.16 3548.66 153.86 68.24
+"18" "Jawa" "Jawa Timur" "JI" "Surabaya" "4 Juli 1950" 38610202 47799.75 18786.51 1540.7 68.14
+"19" "Sulawesi" "Sulawesi Tenggara" "SG" "Kendari" "23 September 1964" 2448081 38067.7 2416.99 78.62 68.07
+"20" "Sumatra" "Bengkulu" "BE" "Bengkulu" "18 November 1968" 1844800 19919.33 2012.91 45.24 68.06
+"21" "Kalimantan" "Kalimantan Tengah" "KT" "Palangka Raya" "2 Juli 1958" 2439858 153564.5 3510.91 89.87 67.77
+"22" "Kalimantan" "Kalimantan Selatan" "KS" "Banjarmasin" "7 Desember 1956" 3922790 38744.23 6010.91 131.59 67.63
+"23" "Sumatra" "Sumatra Selatan" "SS" "Palembang" "14 Agustus 1950" 7941500 91592.43 7697.99 308.41 66.75
+"24" "Kepulauan Maluku" "Maluku" "MA" "Ambon" "17 Juni 1958" 1657409 46914.03 2013.83 31.73 66.74
+"25" "Sulawesi" "Sulawesi Tengah" "ST" "Palu" "23 September 1964" 2831283 61841.29 2514.84 90.26 66.43
+"26" "Sumatra" "Lampung" "LA" "Bandar Lampung" "18 Maret 1964" 8026191 34623.8 4350.25 231.01 66.42
+"27" "Kepulauan Maluku" "Maluku Utara" "MU" "Sofifi" "4 Oktober 1999" 1138667 31982.5 1599.66 24.05 65.18
+"28" "Sulawesi" "Gorontalo" "GO" "Gorontalo" "22 Desember 2000" 1115633 11257.07 1406.32 25.2 65.17
+"29" "Kalimantan" "Kalimantan Barat" "KB" "Pontianak" "7 Desember 1956" 4716093 147307 3929.94 131.93 64.85
+"30" "Kepulauan Nusa Tenggara" "Nusa Tenggara Barat" "NB" "Mataram" "14 Agustus 1958" 4773795 18572.32 2884.89 82.25 64.31
+"31" "Kepulauan Nusa Tenggara" "Nusa Tenggara Timur" "NT" "Kupang" "14 Agustus 1958" 5036897 48718.1 2916.88 68.6 62.31
+"32" "Sulawesi" "Sulawesi Barat" "SR" "Mamuju" "5 Oktober 2004" 1258090 16787.18 1388.27 29.39 62.24
+"33" "Papua" "Papua Barat" "PB" "Manokwari" "4 Oktober 1999" 849809 99671.63 6570.74 58.29 61.28
+"34" "Papua" "Papua" "PA" "Jayapura" "10 September 1969" 3091047 319036.05 12141.3 123.18 56.75
